@@ -15,6 +15,7 @@ _1st_arguments=(
   'logout:Logout and disconnect'
   'port:View/Modify default Port'
   'protocol:View/Modify default Protocol'
+  'proxy:View/Modify Proxy Settings'
   'sendlog:Send the debug log to Support'
   'speedtest:Test the connection speed'
   'viewlog:View the debug log'
