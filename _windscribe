@@ -10,6 +10,7 @@ _1st_arguments=(
   'disconnect:Disconnect from Windscribe'
   'examples:Show usage examples'
   'firewall:View/Modify Firewall mode'
+  'lanbypass:View/Modify Firewall LAN bypass'
   'locations:Output list of all available server locations'
   'login:Login to Windscribe account'
   'logout:Logout and disconnect'
@@ -29,3 +30,4 @@ arguments=(
 _describe -t commands "windscribe subcommand" _1st_arguments
 
 _arguments -s $arguments
+
